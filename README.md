@@ -2,7 +2,7 @@
   <img src="public/favicon.svg" width="100" height="100" alt="Mini-Cover Logo">
 </p>
 
-<h1 align="center">Mini-Cover</h1>
+<h1 align="center">AllenCover</h1>
 
 <p align="center">优雅的在线封面生成工具</p>
 
